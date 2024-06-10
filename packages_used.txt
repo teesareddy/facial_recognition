@@ -1,0 +1,40 @@
+Modules to be installed for face emotion detection:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+1.tensorflow:
+
+---pip install tensorflow
+'''An end-to-end open source machine learning platform'''
+
+2. keras:
+
+---pip install keras
+---pip install keras_preprocessing
+''' The backend for tensorflow is keras , used as a Module/package'''
+
+3.pandas
+
+---pip install pandas
+'''Pandas is a Python library used for working with data sets'''
+
+4.numpy
+
+---pip install numpy
+'''NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices'''
+
+
+5.tqdm
+
+---pip install tqdm
+'''tqdm is a Python library that provides a fast, extensible progress bar for loops and iterable-based operations'''
+
+6.opencv-contrib-python
+
+---pip install opencv-contrib-python
+'''opencv is used inorder to access real time camera for image or video processing'''
+
+7.opencv-python
+
+---pip install opencv-python
+'''This help us to access the camera from the user'''
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
